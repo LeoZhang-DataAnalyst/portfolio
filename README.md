@@ -1,3 +1,3 @@
-# portfolio
+# Portfolio
 Hi! This is Leo. Welcome to my page. 
-Feel free to explore my projects. :)
+Feel free to explore my projects! :)
